@@ -6,6 +6,4 @@
 
 * Whether you're a beginner just starting out with ReactJs or an experienced developer looking to refresh your knowledge, the ReactJs Quiz App is a great tool to learn, practice, and master ReactJs! Happy learning!!
 
-<hr>
 
-* Quiz App - https://priyadarshi-quiz.vercel.app/
